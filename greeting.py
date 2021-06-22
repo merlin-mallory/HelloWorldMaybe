@@ -1,4 +1,5 @@
 print("Hello world")
 print("does this work")
 print("This is new")
-Print("This time I'll try Commit and Push")
+print("This time I'll try Commit and Push")
+print("The previous print statement had an error, I fixed it")
